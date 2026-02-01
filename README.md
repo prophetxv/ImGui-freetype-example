@@ -1,0 +1,1 @@
+ImGui version 1.91.9 using freetype, this is an example of proper font rasterization and how to make your fonts look better in imgui. the example font used is verdana and it is 13p. <img width="503" height="212" alt="image" src="https://github.com/user-attachments/assets/5eb7f1d8-5586-4b5e-abd9-795668cff898" />
